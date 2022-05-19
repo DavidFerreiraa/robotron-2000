@@ -18,7 +18,6 @@ function subskills(id_contador){
 function sub(id, id_contador){
     var elem1 = document.querySelector(id).addEventListener('click', () => {
         subskills(id_contador);
-        alert
     })
 }
 function sum(id, id_contador){
